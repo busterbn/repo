@@ -3,6 +3,7 @@ git pull
 git status
 git commit -m "text"
 git pull
+git config -l
 git config --global user.name "busterbn"
 git config --global user.email "busternielsen99@gmail.com"
 git config --global credential.helper cache
